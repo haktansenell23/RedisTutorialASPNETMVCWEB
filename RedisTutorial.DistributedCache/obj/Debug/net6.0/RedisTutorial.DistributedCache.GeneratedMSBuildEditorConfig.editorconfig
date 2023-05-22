@@ -1,0 +1,61 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RedisTutorial.DistributedCache
+build_property.RootNamespace = RedisTutorial.DistributedCache
+build_property.ProjectDir = C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\RedisTutorial\RedisTutorial.DistributedCache\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\hakta\OneDrive\Masaüstü\Emre\repo\RedisTutorial\RedisTutorial.DistributedCache
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/hakta/OneDrive/Masaüstü/Emre/repo/RedisTutorial/RedisTutorial.DistributedCache/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakta/OneDrive/Masaüstü/Emre/repo/RedisTutorial/RedisTutorial.DistributedCache/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakta/OneDrive/Masaüstü/Emre/repo/RedisTutorial/RedisTutorial.DistributedCache/Views/Product/ClassSerialize.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDbGFzc1NlcmlhbGl6ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakta/OneDrive/Masaüstü/Emre/repo/RedisTutorial/RedisTutorial.DistributedCache/Views/Product/FileSerialize.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxGaWxlU2VyaWFsaXplLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakta/OneDrive/Masaüstü/Emre/repo/RedisTutorial/RedisTutorial.DistributedCache/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakta/OneDrive/Masaüstü/Emre/repo/RedisTutorial/RedisTutorial.DistributedCache/Views/Product/RemMemory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxSZW1NZW1vcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakta/OneDrive/Masaüstü/Emre/repo/RedisTutorial/RedisTutorial.DistributedCache/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakta/OneDrive/Masaüstü/Emre/repo/RedisTutorial/RedisTutorial.DistributedCache/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakta/OneDrive/Masaüstü/Emre/repo/RedisTutorial/RedisTutorial.DistributedCache/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakta/OneDrive/Masaüstü/Emre/repo/RedisTutorial/RedisTutorial.DistributedCache/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakta/OneDrive/Masaüstü/Emre/repo/RedisTutorial/RedisTutorial.DistributedCache/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-fs5beplhtf

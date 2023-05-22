@@ -1,0 +1,18 @@
+﻿@model Dictionary<string,string>
+@{
+    ViewData["Title"] = "HashType";
+}
+
+<h1>HashType</h1>
+
+
+<form method="post" asp-action="HashType" enctype="application/x-www-form-urlencoded">
+
+    <input type="text" name="key" value="" />
+    <input type="text" name="val" value="" />
+    <button type="submit"></button>
+</form>
+@foreach(var item in Model){
+    <h2>@item.Key ==> @item.Value</h2>
+
+}

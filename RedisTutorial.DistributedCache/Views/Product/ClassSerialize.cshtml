@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewData["Title"] = "ClassSerialize";
+
+    Product viewBagProduct = ViewBag.Product as Product;
+    Product viewBagProduct1 = ViewBag.Product1 as Product;
+}
+
+<h3>JSON SERIALIZE</h3>
+<h1>@viewBagProduct.Id</h1>
+<h1>@viewBagProduct.Name</h1>
+<h1>@viewBagProduct.Description</h1>
+
+<h3>Byte SERIALIZE</h3>
+<h1>@viewBagProduct1.Id</h1>
+<h1>@viewBagProduct1.Name</h1>
+<h1>@viewBagProduct1.Description</h1>
+
+
+<img src="/product/GetFile" />
